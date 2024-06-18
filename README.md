@@ -1,4 +1,4 @@
-
+💫 About Me:
 
 I'm a passionate MERN (MongoDB, Express.js, React, Node.js) stack developer with a knack for crafting innovative and efficient solutions. My journey in the world of coding has led me through various major and minor projects, honing my skills and expanding my knowledge.
 
