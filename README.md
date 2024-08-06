@@ -8,7 +8,6 @@ I'm a passionate MERN (MongoDB, Express.js, React, Node.js) stack developer with
 
 -Frontend: React.js
 
--Backend: Node.js
  
  🍀 Always Learning:
 
